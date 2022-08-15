@@ -1,0 +1,16 @@
+frmItems = 22, 29, 433, 367, C, 22, 29, 433, 367, C
+frmMain = 88, 116, 499, 454, , 44, 58, 455, 396, C
+modMain = 66, 87, 477, 425, C
+Items = 110, 145, 521, 483, C
+DataEnvironment1 = 0, 0, 0, 0, C, 0, 0, 625, 527, C
+frmPurchases = 88, 116, 499, 454, C, 66, 87, 477, 425, C
+Purchases = 110, 145, 521, 483, C
+Vendors = 22, 29, 433, 369, C
+Units = 44, 58, 455, 398, C
+frmRptPurchases = 0, 0, 413, 340, C, 44, 58, 457, 398, C
+Temp = 66, 87, 479, 425, C
+frmRptItems = 88, 116, 425, 454, C, 0, 0, 485, 421, C
+frmDateChooser = 66, 66, 403, 412, C, 44, 44, 381, 390, C
+frmItemPurDetail = 0, 0, 0, 0, C, 154, 154, 617, 500, C
+frmVendors = 110, 110, 488, 456, Z, 0, 0, 378, 346, C
+RecNavigator = 88, 88, 466, 434, C, 66, 66, 444, 412, C
